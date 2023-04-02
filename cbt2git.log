@@ -1,0 +1,15 @@
+2023-04-03 01:21:24.317930 - Initialized conversion of CBT608
+2023-04-03 01:21:24.390357 - Received CBT.V504.FILE608.PDS from FILE608.XMI 
+2023-04-03 01:21:24.392610 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE608.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:21:24.398237 - Found $LOADLIB.xmi (application/xmit) in CBT.V504.FILE608.PDS
+2023-04-03 01:21:24.404680   - Received RECFM=U data, stored XMIT file as CBT608/$LOADLIB.xmi
+2023-04-03 01:21:24.405723 - Found #DOCINST.txt (text/plain) in CBT.V504.FILE608.PDS, moved to PDS/#DOCINST
+2023-04-03 01:21:24.406734 - Found #DOCMEM.txt (text/plain) in CBT.V504.FILE608.PDS, moved to PDS/#DOCMEM
+2023-04-03 01:21:24.407672 - Found @FILE608.txt (text/plain) in CBT.V504.FILE608.PDS, moved to PDS/@FILE608
+2023-04-03 01:21:24.408635 - Found ASMPARS.jcl (text/plain) in CBT.V504.FILE608.PDS, moved to PDS/ASMPARS
+2023-04-03 01:21:24.409551 - Found ASMPARSE.txt (text/plain) in CBT.V504.FILE608.PDS, moved to PDS/ASMPARSE
+2023-04-03 01:21:24.410437 - Found ASMSPA.jcl (text/plain) in CBT.V504.FILE608.PDS, moved to PDS/ASMSPA
+2023-04-03 01:21:24.411377 - Found SPA.rexx (text/plain) in CBT.V504.FILE608.PDS, moved to PDS/SPA
+2023-04-03 01:21:24.412370 - Found SPAUCB.txt (text/plain) in CBT.V504.FILE608.PDS, moved to PDS/SPAUCB
+2023-04-03 01:21:24.413232 - Found SPAVOL.txt (text/plain) in CBT.V504.FILE608.PDS, moved to PDS/SPAVOL
+2023-04-03 01:21:24.414117 - Found TSOSPA.txt (text/plain) in CBT.V504.FILE608.PDS, moved to PDS/TSOSPA
